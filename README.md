@@ -7,8 +7,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nutchanon-keawhawong-272472189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nutchanon-keawhawong-272472189/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nutchanon-keawhawong-272472189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nutchanon-keawhawong-272472189" height="30" width="40" /></a>
 </p>
+
+| Project Name                                 | Description                                                                                                                                  | Links                                                                                                                                                             |
+|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🛍️ **Single Project: Maintenance Work Request** | A full-stack web application for managing industrial maintenance tasks using **React** & **Node.js**.                                       | [Client Repository](https://github.com/nutchanon-k/maintenance-work-request-client) • [Server Repository](https://github.com/nutchanon-k/maintenance-work-request-server) |
+| 🛍️ **Group Project: FoodSaver**              | A full-stack web application connecting surplus food suppliers with buyers and charities to reduce food waste using **React** & **Node.js**. | [Client Repository](https://github.com/nutchanon-k/food-saver-client) • [Server Repository](https://github.com/nutchanon-k/food-saver-server)                     |
 
 
 
